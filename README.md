@@ -3,7 +3,7 @@
 ### [Demostración en YouTube](https://youtube.com/shorts/Bk-qFDOZ-S8)
 
 <h2>Descripción</h2>
-El proyecto consiste en **dos aplicaciones cooperativas para Android 15 (API 35)**:
+Este proyecto consiste en **dos aplicaciones cooperativas para Android 15 (API 35)**:
 
 * **Aplicación Selector (App1)** – Un lanzador sencillo con dos botones. Cada botón muestra un mensaje emergente (toast) y envía un intent implícito (`ACTION_SHOW_ATTRACTIONS` o `ACTION_SHOW_RESTAURANTS`).
 
